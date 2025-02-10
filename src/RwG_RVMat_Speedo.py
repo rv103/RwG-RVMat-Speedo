@@ -65,8 +65,6 @@ def main():
     root.title('RwG RVMat Speedo')
     root.geometry('500x610')
 
-    # Icon hinzufügen
-    root.iconbitmap('RwG_Logo_Modelling.ico')
 
     # Checkboxen für NOHQ, AS und SMDI (werden JETZT nach root erstellt)
     checkbox_values = {
