@@ -1,6 +1,1 @@
-tkinter
-watchdog
 tkinterdnd2
-requests
-numpy
-pandas
