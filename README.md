@@ -7,4 +7,4 @@ You also have the option of replacing the _nohq, _ smdi or _as with the standard
 
 https://youtu.be/3A_nh4P5XZA
 
-![Screenshot 2025-02-11 094817](https://github.com/user-attachments/assets/b3e5bba1-da79-4240-8b94-7d4a94c3d53d)
+![Screenshot 2025-02-11 151221](https://github.com/user-attachments/assets/229902ff-3398-4a39-a2ad-24e66064614b)
