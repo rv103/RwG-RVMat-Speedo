@@ -1,7 +1,0 @@
-dist/
-build/
-__pycache__/
-*.pyc
-
-# local user presets (per-machine)
-rvmat_speedo_presets.json
